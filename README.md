@@ -1,3 +1,3 @@
 # dashboard
 
-Changes for exercise - Git Bash commit
+Third changes for exercise - Git Bash commit
