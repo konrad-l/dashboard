@@ -15,6 +15,7 @@ app.layout = html.Div(children=[
     )
 
 ])
+print("nowa funkcja")
 
 if __name__ == "__main__":
     app.run_server(debug=True)
