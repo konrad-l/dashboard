@@ -18,5 +18,7 @@ app.layout = html.Div(children=[
 
 print('Hello world')
 
+print('Hello world once again")
+
 if __name__ == "__main__":
     app.run_server(debug=True)
